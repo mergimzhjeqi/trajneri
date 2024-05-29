@@ -50,3 +50,11 @@
     --ring: 224.3 76.3% 48%;
   }
 }
+
+.trajneri {
+  background: linear-gradient(to right, #38BDF8, #68D391);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  font-size: 40px;
+  font-weight: bold;
+}
