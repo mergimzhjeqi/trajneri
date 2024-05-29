@@ -9,7 +9,7 @@ export default function Home() {
         <h1 className="text-4xl lg:text-6xl font-bold text-center leading-relaxed lg:leading-snug">
           Krijo një program
           {' '}
-          <span className="text-sky-500">të plotë fitnesi 💪</span>
+          <span className="text-sky-500">të plotë fitnesi 🦾</span>
           {' '}
           në
           {' '}
